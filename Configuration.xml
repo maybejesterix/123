@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.8">
+	<Configuration uuid="4c0ebe2c-d938-49bb-ac84-327119e1952f">
+		<InternalInfo>
+			<xr:ContainedObject>
+				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
+				<xr:ObjectId>198434b0-1153-40cc-8a95-8c2dcae4b8a8</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
+				<xr:ObjectId>663556d6-afb7-4308-a4e6-c69e1993bc61</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
+				<xr:ObjectId>1988d8b1-5dc7-4a4a-b8de-b8f3c835a563</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
+				<xr:ObjectId>07c7fa8a-69df-4f0d-ba7b-1a822051d325</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
+				<xr:ObjectId>9b84611b-0b67-4946-a8b5-7c7c93029938</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
+				<xr:ObjectId>ec13c2e3-5d02-4248-b911-8a40f707606d</xr:ObjectId>
+			</xr:ContainedObject>
+		</InternalInfo>
+		<Properties>
+			<Name>ВсеДляВсехРерих</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Все для всех Рерих</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<NamePrefix/>
+			<ConfigurationExtensionCompatibilityMode>Version8_3_14</ConfigurationExtensionCompatibilityMode>
+			<DefaultRunMode>ManagedApplication</DefaultRunMode>
+			<UsePurposes>
+				<v8:Value xsi:type="app:ApplicationUsePurpose">PlatformApplication</v8:Value>
+			</UsePurposes>
+			<ScriptVariant>Russian</ScriptVariant>
+			<DefaultRoles/>
+			<Vendor/>
+			<Version/>
+			<UpdateCatalogAddress/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
+			<UseOrdinaryFormInManagedApplication>false</UseOrdinaryFormInManagedApplication>
+			<AdditionalFullTextSearchDictionaries/>
+			<CommonSettingsStorage/>
+			<ReportsUserSettingsStorage/>
+			<ReportsVariantsStorage/>
+			<FormDataSettingsStorage/>
+			<DynamicListsUserSettingsStorage/>
+			<Content/>
+			<DefaultReportForm/>
+			<DefaultReportVariantForm/>
+			<DefaultReportSettingsForm/>
+			<DefaultDynamicListSettingsForm/>
+			<DefaultSearchForm/>
+			<DefaultDataHistoryChangeHistoryForm/>
+			<DefaultDataHistoryVersionDataForm/>
+			<DefaultDataHistoryVersionDifferencesForm/>
+			<RequiredMobileApplicationPermissions>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Multimedia</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Location</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Contacts</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Calendars</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Telephony</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">PushNotification</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">LocalNotification</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Print</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">InAppPurchases</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Ads</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">BackgroundLocation</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">BackgroundAudioPlayback</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">FileExchangeWithPersonalComputer</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+			</RequiredMobileApplicationPermissions>
+			<MainClientApplicationWindowMode>Normal</MainClientApplicationWindowMode>
+			<DefaultInterface/>
+			<DefaultStyle/>
+			<DefaultLanguage>Language.Русский</DefaultLanguage>
+			<BriefInformation/>
+			<DetailedInformation/>
+			<Copyright/>
+			<VendorInformationAddress/>
+			<ConfigurationInformationAddress/>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
+			<ModalityUseMode>Use</ModalityUseMode>
+			<SynchronousPlatformExtensionAndAddInCallUseMode>Use</SynchronousPlatformExtensionAndAddInCallUseMode>
+			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
+			<CompatibilityMode>Version8_3_14</CompatibilityMode>
+			<DefaultConstantsForm/>
+		</Properties>
+		<ChildObjects>
+			<Language>Русский</Language>
+			<Subsystem>Закупки</Subsystem>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Зарплата</Subsystem>
+			<Subsystem>Казначейство</Subsystem>
+			<Subsystem>НСИ</Subsystem>
+			<Subsystem>Администрирование</Subsystem>
+			<CommonPicture>Казначейство</CommonPicture>
+			<CommonPicture>Продажи</CommonPicture>
+			<CommonPicture>Закупки</CommonPicture>
+			<CommonPicture>Зарплата</CommonPicture>
+			<CommonPicture>НСИ</CommonPicture>
+			<CommonPicture>Администрирование</CommonPicture>
+			<Role>Администратор</Role>
+			<Role>МенеджерПоЗакупкам</Role>
+			<Role>МенеджерПоПродажам</Role>
+			<Role>Кладовщик</Role>
+			<Role>Расчетчик</Role>
+			<Role>Бухгалтер</Role>
+			<CommonModule>РаботаСоСправочникамиСервер</CommonModule>
+			<CommonModule>РаботаСДокументамиКлиент</CommonModule>
+			<CommonModule>ПолучитьКурсВалютыСервер</CommonModule>
+			<CommonModule>РасчетыСервер</CommonModule>
+			<WSReference>КурсыВалютССайтаЦБ</WSReference>
+			<EventSubscription>ПодпискаНаСобытие1</EventSubscription>
+			<FunctionalOption>СоздаватьВалютыАвтоматически</FunctionalOption>
+			<FunctionalOption>УчитыватьНоменклатуруПоПартиям</FunctionalOption>
+			<FunctionalOption>СтавкаНДФЛ</FunctionalOption>
+			<DefinedType>Денежный</DefinedType>
+			<CommonCommand>ЗагрузкаКурсовВалют</CommonCommand>
+			<Constant>СоздаватьВалютыАвтоматически</Constant>
+			<Constant>УчитыватьНоменклатуруПоПартиям</Constant>
+			<Constant>СтавкаНДФЛ</Constant>
+			<CommonForm>СпособРасчетаСебестоимости</CommonForm>
+			<Catalog>Валюты</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>СчетаОрганизации</Catalog>
+			<Catalog>ВидыЦен</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
+			<Catalog>ВидыГрафиковРаботы</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>Договоры</Catalog>
+			<Catalog>ХарактеристикиНоменклатуры</Catalog>
+			<Catalog>ВидыДокументов</Catalog>
+			<Document>РасходныйКассовыйОрдер</Document>
+			<Document>СписаниеСРасчетногоСчета</Document>
+			<Document>ПриходныйКассовыйОрдер</Document>
+			<Document>ПоступлениеНаРасчетныйСчет</Document>
+			<Document>УстановкаЦен</Document>
+			<Document>УстановкаКурсовВалют</Document>
+			<Document>ПоступлениеТоваров</Document>
+			<Document>РеализацияТоваров</Document>
+			<Document>ЗаказКлиента</Document>
+			<Document>ЗаказПоставщику</Document>
+			<Document>НачислениеЗарплаты</Document>
+			<Document>УстановкаОкладовСотрудников</Document>
+			<Document>УстановкаКурсовВалютРБК</Document>
+			<Document>УстановкаМетодаСписания</Document>
+			<Enum>Подразделения</Enum>
+			<Enum>ВидыНоменклатуры</Enum>
+			<Enum>УчетнаяПолитика</Enum>
+			<Report>НачисленияСотрудникамЗаВыбранныйМесяц</Report>
+			<Report>ВзаиморасчетыСПокупателями</Report>
+			<Report>ОстаткиТоваровНаСкладах</Report>
+			<DataProcessor>ЗаполнениеГрафика</DataProcessor>
+			<DataProcessor>СоздатьДокумент</DataProcessor>
+			<DataProcessor>ЗагрузкаКурсовВалютРБК</DataProcessor>
+			<InformationRegister>Штрихкоды</InformationRegister>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>ГрафикиРаботы</InformationRegister>
+			<InformationRegister>КурсыВалют</InformationRegister>
+			<InformationRegister>ЦеныПоставщиков</InformationRegister>
+			<InformationRegister>ОкладыСотрудников</InformationRegister>
+			<InformationRegister>КурсыВалютРБК</InformationRegister>
+			<InformationRegister>УчетнаяПолитика</InformationRegister>
+			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
+			<AccumulationRegister>Прибыль</AccumulationRegister>
+			<ChartOfCharacteristicTypes>ВидыСубконто</ChartOfCharacteristicTypes>
+			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
+			<AccountingRegister>Хозрасчетный</AccountingRegister>
+			<ChartOfCalculationTypes>ОсновныеНачисления</ChartOfCalculationTypes>
+			<ChartOfCalculationTypes>ДополнительныеНачисления</ChartOfCalculationTypes>
+			<ChartOfCalculationTypes>Удержания</ChartOfCalculationTypes>
+			<CalculationRegister>ОсновныеНачисления</CalculationRegister>
+			<CalculationRegister>ДополнительныеНачисления</CalculationRegister>
+			<CalculationRegister>Удержания</CalculationRegister>
+		</ChildObjects>
+	</Configuration>
+</MetaDataObject>
